@@ -18,3 +18,17 @@ AWS CLOUD
 11. CSS 
 12. JavaScript
 13. Python
+
+## Screenshots Web Application
+1. Cognito Login Page
+![w](https://github.com/avaiyang/Nutri-Meter/blob/master/Screenshots/Sign-Up.png)
+2. Post Login Web Application
+![w1](https://github.com/avaiyang/Nutri-Meter/blob/master/Screenshots/post-login.png)
+3. Uploading Image
+![w2](https://github.com/avaiyang/Nutri-Meter/blob/master/Screenshots/Upload-image.png)
+4. After Uplaod, showing calories
+![w3](https://github.com/avaiyang/Nutri-Meter/blob/master/Screenshots/Re-login.png)
+
+### Chatbot Screenshots
+![w4](https://github.com/avaiyang/Nutri-Meter/blob/master/Screenshots/Chatbot.png)
+![w5](https://github.com/avaiyang/Nutri-Meter/blob/master/Screenshots/Chatbot-recipe.png)
